@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1787768690.47251 "/Users/samkim/Documents/GitHub/Math-1075/Math 1075 Rec 1.tex" "Math 1075 Rec 1.pdf" "Math 1075 Rec 1" 1787768691.00401 0
-  "/Users/samkim/Documents/GitHub/Math-1075/Math 1075 Rec 1.tex" 1787768690.25984 1373 8e5e79cba9ee1f672c80af816ce0ce6b ""
+["pdflatex"] 1787768750.01679 "/Users/samkim/Documents/GitHub/Math-1075/Math 1075 Rec 1.tex" "Math 1075 Rec 1.pdf" "Math 1075 Rec 1" 1787768750.55137 0
+  "/Users/samkim/Documents/GitHub/Math-1075/Math 1075 Rec 1.tex" 1787768749.80808 1347 df68e4c595aa801398a7450aa32c26d8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -87,9 +87,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732199361.25952 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732199214 8221433 06b60431523ad3b6d3a2e7a505f5b4db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Math 1075 Rec 1.aux" 1787768690.96315 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "Math 1075 Rec 1.out" 1787768690.81379 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Math 1075 Rec 1.tex" 1787768690.25984 1373 8e5e79cba9ee1f672c80af816ce0ce6b ""
+  "Math 1075 Rec 1.aux" 1787768750.51057 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "Math 1075 Rec 1.out" 1787768750.35878 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Math 1075 Rec 1.tex" 1787768749.80808 1347 df68e4c595aa801398a7450aa32c26d8 ""
   (generated)
   "Math 1075 Rec 1.aux"
   "Math 1075 Rec 1.log"

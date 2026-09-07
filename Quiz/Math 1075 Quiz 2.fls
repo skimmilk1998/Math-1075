@@ -99,6 +99,7 @@ INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSym
 OUTPUT Math 1075 Quiz 2.pdf
 INPUT C:\Users\Sam\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolC.enc
+INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolD.enc
 INPUT Math 1075 Quiz 2.aux
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol10.pfb
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol10.pfb

@@ -1,8 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1788799804.74416 "c:/Users/Sam/Documents/GitHub/Math-1075/Quiz/Math 1075 Quiz 2.tex" "Math 1075 Quiz 2.pdf" "Math 1075 Quiz 2" 1788799805.06527 0
+["pdflatex"] 1788800394.74088 "c:/Users/Sam/Documents/GitHub/Math-1075/Quiz/Math 1075 Quiz 2.tex" "Math 1075 Quiz 2.pdf" "Math 1075 Quiz 2" 1788800395.07153 0
   "C:/Users/Sam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1788799538 90321 4b3098cf6b905bb0632aec9662e1d4df ""
   "C:/Users/Sam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1752440835 24224102 fa22b53fa5dd399690cd8c80229657be ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc" 1168536988 3275 8d7166dfdbc31ffdc8aba0c31b3bd5c8 ""
+  "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc" 1168536988 3375 808c88761dbdc66fc653d18f42765b64 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
@@ -64,9 +65,9 @@
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/mnsymbol/MnSymbol.sty" 1172087280 95828 55f783a474c114c0ddb366214fe087fc ""
-  "Math 1075 Quiz 2.aux" 1788799804 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Math 1075 Quiz 2.tex" 1788799804 1526 709424da1b4d48b7bac0fa50a5c4bc00 ""
-  "c:/Users/Sam/Documents/GitHub/Math-1075/Quiz/Math 1075 Quiz 2.tex" 1788799804 1526 709424da1b4d48b7bac0fa50a5c4bc00 ""
+  "Math 1075 Quiz 2.aux" 1788800394 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Math 1075 Quiz 2.tex" 1788800394 1522 c789c44801c5e2bf6ae2bb95bb598dfe ""
+  "c:/Users/Sam/Documents/GitHub/Math-1075/Quiz/Math 1075 Quiz 2.tex" 1788800394 1522 c789c44801c5e2bf6ae2bb95bb598dfe ""
   (generated)
   "Math 1075 Quiz 2.aux"
   "Math 1075 Quiz 2.log"

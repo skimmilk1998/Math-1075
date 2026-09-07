@@ -1,7 +1,7 @@
 PWD c:\Users\Sam\Documents\GitHub\Math-1075\Quiz
 INPUT C:\Users\Sam\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Sam\Documents\GitHub\Math-1075\Quiz\Math 1075 Quiz 1.tex
-OUTPUT Math 1075 Quiz 1.log
+INPUT c:\Users\Sam\Documents\GitHub\Math-1075\Quiz\Math 1075 Quiz 2.tex
+OUTPUT Math 1075 Quiz 2.log
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
@@ -46,10 +46,10 @@ INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\Math 1075 Quiz 1.aux
-INPUT .\Math 1075 Quiz 1.aux
-INPUT Math 1075 Quiz 1.aux
-OUTPUT Math 1075 Quiz 1.aux
+INPUT .\Math 1075 Quiz 2.aux
+INPUT .\Math 1075 Quiz 2.aux
+INPUT Math 1075 Quiz 2.aux
+OUTPUT Math 1075 Quiz 2.aux
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -96,10 +96,10 @@ INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSym
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolD10.tfm
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolD8.tfm
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolD6.tfm
-OUTPUT Math 1075 Quiz 1.pdf
+OUTPUT Math 1075 Quiz 2.pdf
 INPUT C:\Users\Sam\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolC.enc
-INPUT Math 1075 Quiz 1.aux
+INPUT Math 1075 Quiz 2.aux
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol10.pfb
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol10.pfb
 INPUT C:\Users\Sam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.21)  22 SEP 2026 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.21)  23 SEP 2026 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -367,11 +367,11 @@ Package hyperref Info: Link coloring OFF on input line 14.
 \@outlinefile=\write3
 \openout3 = `"Math 1075 Sep 24 Rec.out"'.
 
-<Method 1.png, id=4, 737.75626pt x 219.82124pt>
-File: Method 1.png Graphic file (type png)
-<use Method 1.png>
-Package pdftex.def Info: Method 1.png  used on input line 29.
-(pdftex.def)             Requested size: 422.77664pt x 125.97023pt.
+<Solving Rational Equation.png, id=4, 721.69624pt x 227.85126pt>
+File: Solving Rational Equation.png Graphic file (type png)
+<use Solving Rational Equation.png>
+Package pdftex.def Info: Solving Rational Equation.png  used on input line 29.
+(pdftex.def)             Requested size: 422.77664pt x 133.47844pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -381,13 +381,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Method 1.png>]
-<Method 2.png, id=19, 770.88pt x 190.7125pt>
-File: Method 2.png Graphic file (type png)
-<use Method 2.png>
-Package pdftex.def Info: Method 2.png  used on input line 58.
-(pdftex.def)             Requested size: 469.75502pt x 116.21513pt.
- [2 <./Method 2.png>] (./Math 1075 Sep 24 Rec.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Solving Rational Equation.png>] [2] (./Math 1075 Sep 24 Rec.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -396,18 +390,18 @@ Package rerunfilecheck Info: File `"Math 1075 Sep 24 Rec".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11123 strings out of 474116
- 170658 string characters out of 5743681
- 1933187 words of memory out of 5000000
- 33352 multiletter control sequences out of 15000+600000
+ 11116 strings out of 474116
+ 170645 string characters out of 5743681
+ 1932187 words of memory out of 5000000
+ 33345 multiletter control sequences out of 15000+600000
  563311 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,307b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "Math 1075 Sep 24 Rec.pdf" (2 pages, 181341 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "Math 1075 Sep 24 Rec.pdf" (2 pages, 125707 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

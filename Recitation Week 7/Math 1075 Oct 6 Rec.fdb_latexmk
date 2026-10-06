@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1791219538.02803 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 7/Math 1075 Oct 6 Rec.tex" "Math 1075 Oct 6 Rec.pdf" "Math 1075 Oct 6 Rec" 1791219538.95975 0
-  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 7/Math 1075 Oct 6 Rec.tex" 1791219537.73436 3657 b6ce643282bd0c4bbac28dd0a06739b8 ""
+["pdflatex"] 1791282769.18692 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 7/Math 1075 Oct 6 Rec.tex" "Math 1075 Oct 6 Rec.pdf" "Math 1075 Oct 6 Rec" 1791282770.11705 0
+  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 7/Math 1075 Oct 6 Rec.tex" 1791282768.0358 3785 19138bba9fffcdf08e68116e7e17fee2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -91,9 +91,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732199361.25952 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732199214 8221433 06b60431523ad3b6d3a2e7a505f5b4db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Math 1075 Oct 6 Rec.aux" 1791219538.90423 645 e0393cd3edc3915dd2e952c884393be5 "pdflatex"
-  "Math 1075 Oct 6 Rec.out" 1791219538.90466 674 562364206b0d6db28a703ceb835ff443 "pdflatex"
-  "Math 1075 Oct 6 Rec.tex" 1791219537.73436 3657 b6ce643282bd0c4bbac28dd0a06739b8 ""
+  "Math 1075 Oct 6 Rec.aux" 1791282770.05985 645 e0393cd3edc3915dd2e952c884393be5 "pdflatex"
+  "Math 1075 Oct 6 Rec.out" 1791282770.06035 674 562364206b0d6db28a703ceb835ff443 "pdflatex"
+  "Math 1075 Oct 6 Rec.tex" 1791282768.0358 3785 19138bba9fffcdf08e68116e7e17fee2 ""
   "Screenshot 2026-10-05 at 11.49.49 AM.png" 1791215394.54691 78626 920f6ee55a505f4b1865ff2aabd5ab0c ""
   "Screenshot 2026-10-05 at 11.51.00 AM.png" 1791215465.6255 16854 8d461bc6afde70d7e686397889c6a4bb ""
   "Screenshot 2026-10-05 at 11.54.07 AM.png" 1791215651.52768 52072 f62d32196820da13b81ae9bf3ce9cb55 ""
@@ -104,7 +104,7 @@
   "Screenshot 2026-10-05 at 12.27.26 PM.png" 1791217650.41338 60700 2c0dd015ec6c0a1127cb150d5b9dbb68 ""
   "Screenshot 2026-10-05 at 12.29.19 PM.png" 1791217765.41454 37327 8d842d91d9ed9669727a74df40c46592 ""
   "Screenshot 2026-10-05 at 12.30.22 PM.png" 1791217826.9946 30903 112f1aa706bfa3251837903bd929a692 ""
-  "Screenshot 2026-10-05 at 12.50.41 PM.png" 1791219044.84664 92404 3a6f265da015bb7ab45e5e2e479036aa ""
+  "Screenshot 2026-10-06 at 6.31.00 AM.png" 1791282666.10638 82965 fc3651d79d03a082c2f1c20774634cba ""
   (generated)
   "Math 1075 Oct 6 Rec.aux"
   "Math 1075 Oct 6 Rec.log"

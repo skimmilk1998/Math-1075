@@ -1,0 +1,234 @@
+\documentclass[11pt]{article}
+\usepackage{geometry}
+% \documentclass[10pt,letterpaper]{amsart}
+% \usepackage{geometry}\geometry{margin=1in}
+% \usepackage{xcolor}
+\usepackage{amsmath, amsfonts, amssymb, amsthm, latexsym, comment, color, mathtools, graphicx, epstopdf, multirow, enumerate, mathrsfs} 
+\usepackage{comment}
+\usepackage{framed}      
+\usepackage{quiver}
+\usepackage{tikz-cd}
+\usepackage{float}
+\usepackage[style=alphabetic]{biblatex}
+\addbibresource{refs.bib}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,citecolor=blue
+    }
+ 
+
+    \newtheorem{manualtheoreminner}{Theorem}
+    \newenvironment{manualtheorem}[1]{%
+      \IfBlankTF{#1}
+        {\renewcommand{\themanualtheoreminner}{\unskip}}
+        {\renewcommand\themanualtheoreminner{#1}}%
+      \manualtheoreminner
+    }{\endmanualtheoreminner}
+
+\theoremstyle{plain}
+    \newtheorem{theorem}{Theorem}
+    \newtheorem{corollary}[theorem]{Corollary}
+    \newtheorem{lemma}[theorem]{Lemma}
+    \newtheorem{proposition}[theorem]{Proposition}
+    \newtheorem{fact}[theorem]{Fact}
+    \newtheorem*{conj*}{Conjecture}
+
+\theoremstyle{definition}
+    \newtheorem{prob}{Problem}
+    \newtheorem{definition}[theorem]{Definition}
+    \newtheorem{example}[theorem]{Example}
+    \newtheorem{question}{Question}
+    \newtheorem{exercise}{Exercise}
+
+\theoremstyle{remark}
+    \newtheorem{remark}[theorem]{Remark}
+
+
+\DeclareMathOperator{\disc}{disc}
+\DeclareMathOperator{\Gal}{Gal}
+\DeclareMathOperator{\sgn}{sgn}
+\DeclareMathOperator{\Aut}{Aut}
+\DeclareMathOperator{\End}{End}
+\DeclareMathOperator{\spec}{spec}
+\DeclareMathOperator{\Ker}{Ker}
+\DeclareMathOperator{\Ima}{Im}
+\DeclareMathOperator{\ann}{ann}
+\DeclareMathOperator{\norm}{N}
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\Hom}{Hom}
+
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\bN}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\bR}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\bZ}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\bQ}{\mathbb{Q}}
+\newcommand{\A}{\mathbb{A}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\Fq}{\mathbb{F}_q}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\K}{\mathbb{K}}
+\newcommand{\T}{\mathbb{T}}
+\newcommand{\bH}{\mathbb{H}}
+\newcommand{\bS}{\mathbb{S}}
+\newcommand{\bP}{\mathbb{P}}
+\newcommand{\msA}{\mathscr{A}}
+\newcommand{\msB}{\mathscr{B}}
+\newcommand{\msC}{\mathscr{C}}
+\newcommand{\mfa}{\mathfrak{a}}
+\newcommand{\mfb}{\mathfrak{b}}
+\newcommand{\mfK}{\mathfrak{K}}
+\newcommand{\mfk}{\mathfrak{k}}
+\newcommand{\mfS}{\mathfrak{S}}
+\newcommand{\mfM}{\mathfrak{M}}
+\newcommand{\mfN}{\mathfrak{N}}
+\newcommand{\mfT}{\mathfrak{T}}
+\newcommand{\mfm}{\mathfrak{m}}
+\newcommand{\mfn}{\mathfrak{n}}
+\newcommand{\mfp}{\mathfrak{p}}
+\newcommand{\mfq}{\mathfrak{q}}
+\newcommand{\mfg}{\mathfrak{g}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cGP}{\mathcal{GP}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\id}{\mathrm{id}}
+\newcommand{\cl}[1]{\overline{#1}}
+\newcommand{\GL}{\mathrm{GL}}
+\newcommand{\SL}{\mathrm{SL}}
+\newcommand{\SO}{\mathrm{SO}}
+\newcommand{\mfsl}{\mathfrak{sl}}
+\newcommand{\Ob}{\text{Ob}}
+\newcommand{\colim}{\text{colim}}
+\newcommand{\St}{\text{St}}
+
+
+
+
+%%Some macros for fonts
+\newcommand{\mc}{\mathcal}
+\newcommand{\mf}{\mathfrak}
+\newcommand{\mr}{\mathrm}
+\newcommand{\mbf}{\mathbf}
+\newcommand{\mbb}{\mathbb}
+\newcommand{\un}{\underline}
+\newcommand{\ov}{\overline}
+\newcommand{\wt}{\widetilde}
+
+\usepackage{xcolor,color,url,lmodern}
+\newcommand{\add}[1]{{\color{blue} #1}}
+\newcommand{\alert}[1]{{\color{red} #1}}
+
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\lhead{Autumn 2026}
+\rhead{Math 1075}
+\setlength{\headheight}{13.6pt}  % Adjust the value as needed
+
+\begin{document}
+
+\begin{center} \large\bf{Midterm 2 Review Sheet}\end{center}
+
+\section{Section 7.3}
+\subsection{Finding Least Common Denominator}
+\begin{enumerate}[1)]
+\item Factor all denominators completely.
+\item The LCD is the \textbf{product of unique factors} from denominators, in which each factor is raised to the \textbf{highest power} to which it appears in any denominator.
+\end{enumerate}
+
+\begin{example}
+$\frac{1}{18};\frac{1}{15}  $. First, we factor all denominators completely, and get 
+\begin{align*}
+\frac{1}{3^{2}\cdot 2}, \frac{1}{3\cdot 5}.  
+\end{align*}
+Here, the unique factors are $3, 2, $ and $5.$ Note that in the factorization, we have $3^{2}$ and $3$, and when determining the LCD, we pick the one with the highest power. So we pick $3^{2}.$ For rest of the unique factors, we just have $2$ and $5$. Therefore, LCD is 
+\begin{align*}
+3^{2}\cdot 2\cdot 5=90.
+\end{align*}
+\end{example}
+\begin{example}
+$\frac{1}{x^{2}+2x+1};\frac{1}{x^{2}-1}.  $ First, we factor all denominators completely, and get 
+\begin{align*}
+\frac{1}{(x+1)^{2}}, \frac{1}{(x+1)(x-1)}.  
+\end{align*}
+Here, the unique factors are $(x+1)$ and $(x-1).$ Note that we have $(x+1)^{2}$ and $(x+1)$ in denominators, so we pick one with higher power $(x+1)^{2}.$ Hence the LCD is $$(x+1)^{2}\cdot (x-1)$$
+\end{example}
+\subsection{Writing Rational Expressions with LCD}
+\begin{enumerate}[1)]
+\item Identify the LCD of the expressions. 
+\item Multiply the denominator and numerator of each fraction by the factors from the LCD that are missing from the original denominator. 
+\end{enumerate}
+\newpage
+\section{Section 7.4}
+\subsection{Adding and Subtracting Rational Expressions}
+We have: 
+\begin{enumerate}[1)]
+\item $\frac{a}{b}+\frac{c}{b}=\frac{a+c}{b};   $
+\item $\frac{a}{b}-\frac{c}{b}=\frac{a-c}{b}.$
+\end{enumerate}
+When solving addition and subtraction problems for rational expressions, we want to first \textbf{rewrite rational expressions to have LCD} and then add and subtract. Here are the steps: 
+\begin{enumerate}[1)]
+\item Identify the LCD of all expressions. 
+\item Rewrite each expression with LCD. 
+\item Carry on with adding and subtracting. 
+\item Simplify.
+\end{enumerate}
+\section{Section 7.5}
+\subsection{Complex Fractions}
+Two major types of problems: $\frac{\frac{a}{b} }{\frac{c}{d} } $ or $\frac{\frac{a}{b}+\frac{c}{d}  }{\frac{e}{f}+\frac{g}{h}  }.$ \\ 
+
+\noindent For $\frac{\frac{a}{b} }{\frac{c}{d} } $, we use 
+\begin{align*}
+\frac{\frac{a}{b} }{\frac{c}{d} }=\frac{a}{b}\div \frac{c}{d}=\frac{a}{b}\cdot \frac{d}{c}.     
+\end{align*}
+Using the ``changing fraction division into multiplication trick'' is useful when your complex fraction only has one fraction on top and one fraction on the bottom.\\ 
+
+\noindent For $\frac{\frac{a}{b}+\frac{c}{d}  }{\frac{e}{f}+\frac{g}{h}  },$ we do the following: 
+\begin{enumerate}[1)]
+\item Find the LCD of \textbf{ALL fractions} you see. 
+\item Multiply the top expression (numerator of complex fraction) and the bottom expression (denominator of complex fraction) by the LCD. This step should get rid of all fraction on top and on bottom. 
+\item Simplify. 
+\end{enumerate}
+\section{Section 7.6}
+\subsection{Rational Equation}
+Key to solving rational equation is \textbf{rewriting your rational equation to have no fraction} and making sure \textbf{your solution does not include restricted values.} Recall that restricted values are values of $x$ where when plugged in, it makes the denominator equal to $0.$ Here are stpes: 
+\begin{enumerate}[1)]
+\item Find LCD of all fraction term you see in the rational equation. \textbf{Find restricted values of all fractions you see.}
+\item Multiply \textbf{ALL TERMS} (not just fractions) by LCD. This should get rid of all the fractions 
+\item Solve for $x$ (this step may involve factoring depending on the problem). 
+\item Write down solution, and if it includes restricted values, make sure to exclude it.
+\end{enumerate}
+\section{Section 7.7}
+\subsection{Ratios and Proportions}
+Ratio of $a$ to $b$ is $\frac{a}{b}.$ So you can think of ratio as a fraction. When you're setting two ratios (or fractions) equal to one another, it is called \textbf{proportion.}\\ 
+
+\noindent This sections deals with word problems. Solving it is going to either involve \textbf{proportions} or \textbf{rational equations.} 
+\subsection{Similar Triangles}
+This kind of problem is going to boil down to
+\begin{enumerate}[1)]
+\item Setting up proportion (so driving car, casting shadow type of problems).
+\item Solving for the variable.
+\end{enumerate}
+When you're setting up the proportion, make sure the units of the numerators and denominators of both fractions match up. For example, you can have miles/gallon=miles/gallon and gallon/miles=gallon/miles, but not miles/gallon=gallon/miles and vice versa. 
+\subsection{Distance, Rate, and Time}
+For this you must know the formula: $D=T\cdot R$, i.e. Distance=Time$\cdot$Rate. We have total of 3 formulas: 
+\begin{align*}
+D=T\cdot R, \hspace{2em} R=\frac{D}{T}, \hspace{2em} T=\frac{D}{R}  
+\end{align*}
+and depending on the problem, you make the table, 
+\end{document}

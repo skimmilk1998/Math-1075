@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1791417708.15747 "/Users/samkim/Documents/GitHub/Math-1075/Midterm 2/Midtem Review Problems.tex" "Midtem Review Problems.pdf" "Midtem Review Problems" 1791417708.82439 0
-  "/Users/samkim/Documents/GitHub/Math-1075/Midterm 2/Midtem Review Problems.tex" 1791417707.96434 1109 e39808fea7d292602045d8fb2ddb10d7 ""
+["pdflatex"] 1791822602.82336 "/Users/samkim/Documents/GitHub/Math-1075/Midterm 2/Midtem Review Problems.tex" "Midtem Review Problems.pdf" "Midtem Review Problems" 1791822603.50268 0
+  "/Users/samkim/Documents/GitHub/Math-1075/Midterm 2/Midtem Review Problems.tex" 1791822601.82886 2386 61610b643921a25d7f923a1079650ecd ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -21,6 +21,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1248133631 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -91,9 +92,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732199361.25952 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732199214 8221433 06b60431523ad3b6d3a2e7a505f5b4db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Midtem Review Problems.aux" 1791417708.77393 694 38fd83f6195f618aa71864f74d098aaf "pdflatex"
-  "Midtem Review Problems.out" 1791417708.77454 456 6a64e05742ab63eb2e41a13c848c291b "pdflatex"
-  "Midtem Review Problems.tex" 1791417707.96434 1109 e39808fea7d292602045d8fb2ddb10d7 ""
+  "Midtem Review Problems.aux" 1791822603.44586 710 fa36b039e8b864ea8cd26670821d589e "pdflatex"
+  "Midtem Review Problems.out" 1791822603.44646 542 5368b3290fef01b06d28fb95497a3642 "pdflatex"
+  "Midtem Review Problems.tex" 1791822601.82886 2386 61610b643921a25d7f923a1079650ecd ""
   (generated)
   "Midtem Review Problems.aux"
   "Midtem Review Problems.log"

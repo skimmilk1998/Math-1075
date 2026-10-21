@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1792537047.41985 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 9/Math 1075 Oct 22 Rec.tex" "Math 1075 Oct 22 Rec.pdf" "Math 1075 Oct 22 Rec" 1792537048.14563 0
-  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 9/Math 1075 Oct 22 Rec.tex" 1792537047.19978 1370 820e38a26a9913f01093d9d3091903f8 ""
+["pdflatex"] 1792610029.85259 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 9/Math 1075 Oct 22 Rec.tex" "Math 1075 Oct 22 Rec.pdf" "Math 1075 Oct 22 Rec" 1792610030.6322 0
+  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 9/Math 1075 Oct 22 Rec.tex" 1792610029.57256 1370 f695b5aea9e1ce0514df5d337b9f669d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -91,9 +91,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732199361.25952 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732199214 8221433 06b60431523ad3b6d3a2e7a505f5b4db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Math 1075 Oct 22 Rec.aux" 1792537048.09009 449 415f7fd64fdbf3dd35eea4af5c3f93f8 "pdflatex"
-  "Math 1075 Oct 22 Rec.out" 1792537048.09049 573 e04adcb39bf3393d92ad895f35a24523 "pdflatex"
-  "Math 1075 Oct 22 Rec.tex" 1792537047.19978 1370 820e38a26a9913f01093d9d3091903f8 ""
+  "Math 1075 Oct 22 Rec.aux" 1792610030.57289 449 415f7fd64fdbf3dd35eea4af5c3f93f8 "pdflatex"
+  "Math 1075 Oct 22 Rec.out" 1792610030.57332 573 e04adcb39bf3393d92ad895f35a24523 "pdflatex"
+  "Math 1075 Oct 22 Rec.tex" 1792610029.57256 1370 f695b5aea9e1ce0514df5d337b9f669d ""
   (generated)
   "Math 1075 Oct 22 Rec.aux"
   "Math 1075 Oct 22 Rec.log"

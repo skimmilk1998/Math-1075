@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1792958930.12369 "c:/Users/Sam/Documents/GitHub/Math-1075/Recitation Week 10/Math 1075 Oct 27 Rec.tex" "Math 1075 Oct 27 Rec.pdf" "Math 1075 Oct 27 Rec" 1792958930.62616 0
+["pdflatex"] 1792959165.01849 "c:/Users/Sam/Documents/GitHub/Math-1075/Recitation Week 10/Math 1075 Oct 27 Rec.tex" "Math 1075 Oct 27 Rec.pdf" "Math 1075 Oct 27 Rec" 1792959165.51941 0
   "C:/Users/Sam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1788799538 90321 4b3098cf6b905bb0632aec9662e1d4df ""
   "C:/Users/Sam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1752440835 24224102 fa22b53fa5dd399690cd8c80229657be ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -28,6 +28,7 @@
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -88,10 +89,10 @@
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Math 1075 Oct 27 Rec.aux" 1792958930 430 512288633a89b17036c91eb4ccbf9309 "pdflatex"
-  "Math 1075 Oct 27 Rec.out" 1792958930 474 04c6b8099c217571c4102206432c0c9a "pdflatex"
-  "Math 1075 Oct 27 Rec.tex" 1792958929 1650 633f57ca23d542c4f4cb94601cc245ab ""
-  "c:/Users/Sam/Documents/GitHub/Math-1075/Recitation Week 10/Math 1075 Oct 27 Rec.tex" 1792958929 1650 633f57ca23d542c4f4cb94601cc245ab ""
+  "Math 1075 Oct 27 Rec.aux" 1792959165 443 344197bbbf402c08fae57ec7db513506 "pdflatex"
+  "Math 1075 Oct 27 Rec.out" 1792959165 545 ac13fc9cf4dbaad9c97dc1e9fab052d2 "pdflatex"
+  "Math 1075 Oct 27 Rec.tex" 1792959164 1649 e7c468daec45aa4a0e4c34b9399bfb4c ""
+  "c:/Users/Sam/Documents/GitHub/Math-1075/Recitation Week 10/Math 1075 Oct 27 Rec.tex" 1792959164 1649 e7c468daec45aa4a0e4c34b9399bfb4c ""
   (generated)
   "Math 1075 Oct 27 Rec.aux"
   "Math 1075 Oct 27 Rec.log"

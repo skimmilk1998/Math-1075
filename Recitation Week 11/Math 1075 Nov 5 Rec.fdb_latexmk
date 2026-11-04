@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1793810004.03599 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 11/Math 1075 Nov 5 Rec.tex" "Math 1075 Nov 5 Rec.pdf" "Math 1075 Nov 5 Rec" 1793810004.77548 0
-  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 11/Math 1075 Nov 5 Rec.tex" 1793810003.81909 1384 e462ff75ff23e03819983ef41a136d74 ""
+["pdflatex"] 1793810167.19371 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 11/Math 1075 Nov 5 Rec.tex" "Math 1075 Nov 5 Rec.pdf" "Math 1075 Nov 5 Rec" 1793810167.91619 0
+  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 11/Math 1075 Nov 5 Rec.tex" 1793810007.07789 1394 b43a874142c8aac1f0bcc7d3682c57cd ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -92,9 +92,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732199361.25952 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732199214 8221433 06b60431523ad3b6d3a2e7a505f5b4db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Math 1075 Nov 5 Rec.aux" 1793810004.71513 407 f07e34828869a6362272b07681cd1545 "pdflatex"
-  "Math 1075 Nov 5 Rec.out" 1793810004.71556 353 335ec2e9e565037cfcdec1a9d342a168 "pdflatex"
-  "Math 1075 Nov 5 Rec.tex" 1793810003.81909 1384 e462ff75ff23e03819983ef41a136d74 ""
+  "Math 1075 Nov 5 Rec.aux" 1793810167.85352 407 f07e34828869a6362272b07681cd1545 "pdflatex"
+  "Math 1075 Nov 5 Rec.out" 1793810167.85398 353 335ec2e9e565037cfcdec1a9d342a168 "pdflatex"
+  "Math 1075 Nov 5 Rec.tex" 1793810007.07789 1394 b43a874142c8aac1f0bcc7d3682c57cd ""
   (generated)
   "Math 1075 Nov 5 Rec.aux"
   "Math 1075 Nov 5 Rec.log"

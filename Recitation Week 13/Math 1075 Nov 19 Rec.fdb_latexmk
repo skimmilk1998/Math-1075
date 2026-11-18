@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1795023488.02427 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 13/Math 1075 Nov 19 Rec.tex" "Math 1075 Nov 19 Rec.pdf" "Math 1075 Nov 19 Rec" 1795023488.84041 0
-  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 13/Math 1075 Nov 19 Rec.tex" 1795023487.81572 1754 1dc8163785886296c89b2e0a74c83d73 ""
+["pdflatex"] 1795024014.31698 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 13/Math 1075 Nov 19 Rec.tex" "Math 1075 Nov 19 Rec.pdf" "Math 1075 Nov 19 Rec" 1795024015.06948 0
+  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 13/Math 1075 Nov 19 Rec.tex" 1795024013.32709 1747 9e38b8bb47482fda78ae0e18fb5f6f19 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -90,9 +90,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732199361.25952 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732199214 8221433 06b60431523ad3b6d3a2e7a505f5b4db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Math 1075 Nov 19 Rec.aux" 1795023488.78623 414 f176cf1f27736e95ed501eb95c39e714 "pdflatex"
-  "Math 1075 Nov 19 Rec.out" 1795023488.78669 391 26f2fe247c5d9b3288d19bea06991e4e "pdflatex"
-  "Math 1075 Nov 19 Rec.tex" 1795023487.81572 1754 1dc8163785886296c89b2e0a74c83d73 ""
+  "Math 1075 Nov 19 Rec.aux" 1795024015.02045 414 117b4112e1f764d603d67bcbd6851350 "pdflatex"
+  "Math 1075 Nov 19 Rec.out" 1795024015.02102 391 26f2fe247c5d9b3288d19bea06991e4e "pdflatex"
+  "Math 1075 Nov 19 Rec.tex" 1795024013.32709 1747 9e38b8bb47482fda78ae0e18fb5f6f19 ""
   "Screenshot 2026-11-17 at 11.07.33 AM.png" 1794931657.77634 136237 4feed8172e93624cd21d707757012e81 ""
   (generated)
   "Math 1075 Nov 19 Rec.aux"

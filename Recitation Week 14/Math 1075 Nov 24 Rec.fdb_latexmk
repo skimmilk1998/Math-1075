@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1795450040.29675 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 14/Math 1075 Nov 24 Rec.tex" "Math 1075 Nov 24 Rec.pdf" "Math 1075 Nov 24 Rec" 1795450041.09605 0
-  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 14/Math 1075 Nov 24 Rec.tex" 1795450040.08066 1601 3edd9d511ab262aa3c2bdff056619e99 ""
+["pdflatex"] 1795450956.87686 "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 14/Math 1075 Nov 24 Rec.tex" "Math 1075 Nov 24 Rec.pdf" "Math 1075 Nov 24 Rec" 1795450957.66635 0
+  "/Users/samkim/Documents/GitHub/Math-1075/Recitation Week 14/Math 1075 Nov 24 Rec.tex" 1795450956.68115 1596 199ac6aad333f715d3bd4b2b5743e449 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -88,9 +88,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732199361.25952 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732199214 8221433 06b60431523ad3b6d3a2e7a505f5b4db ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Math 1075 Nov 24 Rec.aux" 1795450041.0504 457 441f98fecff15e35476fa17ceac143b3 "pdflatex"
-  "Math 1075 Nov 24 Rec.out" 1795450041.05106 627 f2215d687800d1db19c44473fb5de3ba "pdflatex"
-  "Math 1075 Nov 24 Rec.tex" 1795450040.08066 1601 3edd9d511ab262aa3c2bdff056619e99 ""
+  "Math 1075 Nov 24 Rec.aux" 1795450957.62103 457 ada08178cf34e4f69d0484c52761a237 "pdflatex"
+  "Math 1075 Nov 24 Rec.out" 1795450957.62151 627 f2215d687800d1db19c44473fb5de3ba "pdflatex"
+  "Math 1075 Nov 24 Rec.tex" 1795450956.68115 1596 199ac6aad333f715d3bd4b2b5743e449 ""
   "Screenshot 2026-11-23 at 10.34.17 AM.png" 1795448140.26373 61976 f2b960c8c1ff996a6a0e27ec62aaa984 ""
   "Screenshot 2026-11-23 at 11.03.02 AM.png" 1795449808.49073 162135 21d31f56deda77762f6f62d88b33aad6 ""
   (generated)

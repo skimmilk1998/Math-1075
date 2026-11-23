@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.21)  23 NOV 2026 11:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.21)  23 NOV 2026 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -389,17 +389,17 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Screenshot 2026-11-23 at 10.34.17 AM.png>]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Screenshot 2026-11-23 at 10.34.17 AM.png>] [2]
 Overfull \hbox (6.82268pt too wide) in paragraph at lines 58--58
 []\OT1/cmr/bx/n/17.28 Solving Quadratic Equa-tions - Com-plet-ing the Square 
  []
 
-<Screenshot 2026-11-23 at 11.03.02 AM.png, id=26, 1028.84375pt x 318.18875pt>
+<Screenshot 2026-11-23 at 11.03.02 AM.png, id=30, 1028.84375pt x 318.18875pt>
 File: Screenshot 2026-11-23 at 11.03.02 AM.png Graphic file (type png)
 <use Screenshot 2026-11-23 at 11.03.02 AM.png>
 Package pdftex.def Info: Screenshot 2026-11-23 at 11.03.02 AM.png  used on input line 62.
 (pdftex.def)             Requested size: 469.75502pt x 145.28104pt.
-[2 <./Screenshot 2026-11-23 at 11.03.02 AM.png>] (./Math 1075 Nov 24 Rec.aux)
+[3 <./Screenshot 2026-11-23 at 11.03.02 AM.png>] [4] (./Math 1075 Nov 24 Rec.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -408,18 +408,18 @@ Package rerunfilecheck Info: File `"Math 1075 Nov 24 Rec".out' has not changed.
 (rerunfilecheck)             Checksum: F2215D687800D1DB19C44473FB5DE3BA;627.
  ) 
 Here is how much of TeX's memory you used:
- 11456 strings out of 474116
- 176770 string characters out of 5743681
- 1930187 words of memory out of 5000000
+ 11458 strings out of 474116
+ 176782 string characters out of 5743681
+ 1929187 words of memory out of 5000000
  33678 multiletter control sequences out of 15000+600000
  563917 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,433b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Math 1075 Nov 24 Rec.pdf" (2 pages, 189018 bytes).
+Output written on "Math 1075 Nov 24 Rec.pdf" (4 pages, 189611 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 71 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  27 words of extra memory for PDF output out of 10000 (max. 10000000)
 
